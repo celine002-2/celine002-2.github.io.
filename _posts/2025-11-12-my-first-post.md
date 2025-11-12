@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: pages
 title: "My Everyday Natural Makeup Routine"
 date: 2025-11-12
 ---
